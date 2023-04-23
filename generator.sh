@@ -24,7 +24,7 @@ do echo ">" >> /tmp/time_sorted.txt
 done
 
 for ((n=0;n<33;n++))
-do echo "-" >> /tmp/time_sorted.txt
+do echo "=" >> /tmp/time_sorted.txt
 done
 
 for ((n=0;n<34;n++))
