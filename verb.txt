@@ -5,7 +5,7 @@ say
 go
 exit
 get
-would
+compile
 make
 know
 explain
@@ -52,7 +52,7 @@ believe
 hold
 bring
 happen
-must
+read
 write
 provide
 sit
