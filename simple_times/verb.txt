@@ -21,7 +21,7 @@ find
 give
 tell
 work
-may
+bless
 expect
 call
 try
