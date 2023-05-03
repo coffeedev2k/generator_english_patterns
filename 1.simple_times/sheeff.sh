@@ -55,3 +55,5 @@ for((k=0;k<${COUNT_OF_FILES};k++)); do
     done
 
 done
+
+cat *result.txt | xclip
