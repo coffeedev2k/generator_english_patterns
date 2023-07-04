@@ -13,8 +13,8 @@ r='result.txt'
 time='> < ='
 
 # Переменную, откуда будем знак брать
-sign='+ - ?'
-#sign='+ + +'
+sign='+ -'
+# sign='+ - ?'
 
 # Пофайлово делаем:
 for ((k = 0; k < ${COUNT_OF_FILES}; k++)); do
@@ -33,10 +33,10 @@ for ((k = 0; k < ${COUNT_OF_FILES}; k++)); do
         echo "Do ${i} item of ${k} file"
 
         # Пишем в файл при этом выбираем случайное слово и без переноса строк всё
-        echo $sign | cut -f $(echo $(($RANDOM % 2 + 1))) -d " " | tr -d '\r\n' >>$r
+        echo $sign | cut -f $(echo $(($RANDOM % 3 + 1))) -d " " | tr -d '\r\n' >>$r
         echo -n "     " >>$r
 
-        echo $time | cut -f $(echo $(($RANDOM % 2 + 1))) -d " " | tr -d '\r\n' >>$r
+        echo $time | cut -f $(echo $(($RANDOM % 3 + 1))) -d " " | tr -d '\r\n' >>$r
         echo -n "     " | tr -d '\r\n' >>$r
 
         echo -n $(cat noun.txt | shuf | head -n 1) | tr -d '\r\n' >>$r
@@ -45,8 +45,19 @@ for ((k = 0; k < ${COUNT_OF_FILES}; k++)); do
         echo -n $(cat verb.txt | shuf | head -n 1) | tr -d '\r\n' >>$r
         echo -n "     " | tr -d '\r\n' >>$r
 
-        echo -n $(cat obj.txt | shuf | head -n 1) | tr -d '\r\n' >>$r
-        # Добавляем перенос строк, чтобы завершить строку
+        # Пишем в файл при этом выбираем случайное слово и без переноса строк всё
+        echo $sign | cut -f $(echo $(($RANDOM % 3 + 1))) -d " " | tr -d '\r\n' >>$r
+        echo -n "     " >>$r
+
+        echo $time | cut -f $(echo $(($RANDOM % 3 + 1))) -d " " | tr -d '\r\n' >>$r
+        echo -n "     " | tr -d '\r\n' >>$r
+
+        echo -n $(cat noun.txt | shuf | head -n 1) | tr -d '\r\n' >>$r
+        echo -n "     " | tr -d '\r\n' >>$r
+
+        echo -n $(cat verb.txt | shuf | head -n 1) | tr -d '\r\n' >>$r
+        echo -n "     " | tr -d '\r\n' >>$r
+
         echo '' >>$r
         echo '' >>$r
         echo '' >>$r

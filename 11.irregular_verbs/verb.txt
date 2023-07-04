@@ -1,0 +1,23 @@
+be [bi:] 	was [wɔz],  were [wз:] 	been [bɪn] 	быть
+have [hæv] 	had [hæd] 	had [hæd] 	иметь
+do [du:] 	did [did] 	done [dʌn] 	делать
+say [sei] 	said [sed] 	said [sed] 	сказать
+go [gou] 	went [went] 	gone [gɔn] 	идти
+get [get] 	got [gɔt] 	gotten [gɔt(ə)n] 	получать
+know [nou] 	knew [nju:] 	known [noun] 	знать
+see [si:] 	saw [sɔ:] 	seen [si:n] 	видеть
+come [kʌm] 	came [keim] 	come [kʌm] 	приходить
+think [θiŋk] 	thought [θɔ:t] 	thought [θɔ:t] 	думать
+take [teik] 	took [tuk] 	taken ['teik(ə)n]	брать, взять
+make [meik] 	made [meid] 	made [meid] 	делать, мастерить
+give [giv] 	gave [geiv] 	given [givn] 	давать
+tell [tel] 	told [tould] 	told [tould] 	сказать, рассказать
+stand [stænd] 	stood [stu:d] 	stood [stu:d] 	стоять
+find [faind] 	found [faund] 	found [faund] 	находить
+hear [hiə] 	heard [hз:d] 	heard [hз:d] 	слышать
+leave [li:v] 	left [left] 	left [left] 	оставлять, покидать
+sit [sit] 	sat [sæt] 	sat [sæt] 	сидеть
+let [let] 	let [let] 	let [let] 	позволять, разрешать
+feel [fi:l] 	felt [felt] 	felt [felt] 	чувствовать
+hold [hould] 	held [held] 	held [held] 	держать
+run [rʌŋ] 	ran [ræŋ] 	run [rʌŋ] 	бежать
