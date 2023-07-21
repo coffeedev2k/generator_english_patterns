@@ -3,7 +3,7 @@
 # set -ex
 
 # выставляем цифру сколько файлов делать
-COUNT_OF_FILES=3
+COUNT_OF_FILES=1
 
 # Название для итогового файла
 r='result.txt'
@@ -33,10 +33,10 @@ for ((k = 0; k < ${COUNT_OF_FILES}; k++)); do
         echo "Do ${i} item of ${k} file"
 
         # Пишем в файл при этом выбираем случайное слово и без переноса строк всё
-        echo $sign | cut -f $(echo $(($RANDOM % 2 + 1))) -d " " | tr -d '\r\n' >>$r
+        echo $sign | cut -f $(echo $(($RANDOM % 3 + 1))) -d " " | tr -d '\r\n' >>$r
         echo -n "     " >>$r
 
-        echo $time | cut -f $(echo $(($RANDOM % 2 + 1))) -d " " | tr -d '\r\n' >>$r
+        echo $time | cut -f $(echo $(($RANDOM % 3 + 1))) -d " " | tr -d '\r\n' >>$r
         echo -n "     " | tr -d '\r\n' >>$r
 
         echo -n $(cat noun.txt | shuf | head -n 1) | tr -d '\r\n' >>$r
