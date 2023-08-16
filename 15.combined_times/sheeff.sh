@@ -16,6 +16,9 @@ time='> < ='
 sign='+ - ?'
 #sign='+ + +'
 
+# Переменную, откуда будем форму брать
+form='_ |'
+
 # Пофайлово делаем:
 for ((k = 0; k < ${COUNT_OF_FILES}; k++)); do
 
@@ -32,8 +35,7 @@ for ((k = 0; k < ${COUNT_OF_FILES}; k++)); do
 
         echo "Do ${i} item of ${k} file"
 
-        # Пишем в файл при этом выбираем случайное слово и без переноса строк всё
-        echo "/|" | tr -d '\r\n' >>$r
+        echo $form | cut -f $(echo $(($RANDOM % 3 + 1))) -d " " | tr -d '\r\n' >>$r
         echo -n "     " >>$r
 
         echo $sign | cut -f $(echo $(($RANDOM % 3 + 1))) -d " " | tr -d '\r\n' >>$r

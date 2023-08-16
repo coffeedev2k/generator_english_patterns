@@ -1,34 +1,41 @@
+#	глагол	simple past	past participle	перевод
 1	 to be	 was, were	 been	быть
 2	 to have	 had	 had	иметь
 3	 to do	 did	 done	делать
 4	 to say	 said	 said	сказать, произнести
 5	 to get	 got	 got	получать
 6	 to find	 found	 found	находить
+7	 to tell	 told	 told	рассказывать
 8	 to ask	 asked	 asked	спрашивать
 9	 to use	 used	 used	использовать
-10	 to come	 came	 come	приходить
 11	 to know	 knew	 known	знать
+12	 to go	 went	 gone	идти
 13	 to make	 made	 made	создавать
-14	 to give	 gave	 given	давать
 15	 to want	 wanted	 wanted	хотеть
 16	 to look	 looked	 looked	смотреть
-17	 to think	 thought	 thought	думать
-18	 to take	 took	 taken	брать, взять
 19	 to see	 saw	 seen	видеть
 20	 to work	 worked	 worked	работать
 21	 to try	 tried	 tried	стараться
 22	 to leave	 left	 left	уезжать, покидать
 23	 to need	 needed	 needed	нуждаться
+24	 to seem	 seemed	 seemed	казаться
+25	 to become	 became	 become	становиться
 26	 to call	 called	 called	звонить
+27	 to feel	 felt	 felt	чувствовать
 28	 to put	 put	 put	класть
+29	 to keep	 kept	 kept	сохранять
 30	 to help	 helped	 helped	помогать
 31	 to spend	 spent	 spent	тратить, проводить время
+32	 to begin	 began	 begun	начинать
 33	 to walk	 walked	 walked	гулять
 34	 to close	 closed	 closed	закрывать
+35	 to let	 let	 let	позволять
 36	 to grow	 grew	 grown	расти
+37	 to mean	 meant	 meant	иметь в виду
 38	 to believe	 believed	 believed	верить
 39	 to play	 played	 played	играть
 40	 to happen	 happened	 happened	случаться
+41	 to remind	 reminded	 reminded	напоминать
 42	 to include	 included	 included	включать
 43	 to set	 set	 set	устанавливать
 44	 to hear	 heard	 heard	слышать
@@ -37,11 +44,12 @@
 47	 to create	 created	 created	создавать
 48	 to appear	 appeared	 appeared	появляться
 49	 to open	 opened	 opened	открывать
-50	 to stand	 stood	 stood	стоять
 51	 to serve	 served	 served	служить
+52	 to run	 ran	 run	бегать
 53	 to remember	 remembered	 remembered	помнить
 54	 to buy	 bought	 bought	покупать
 55	 to bring	 brought	 brought	приносить
+56	 to win	 won	 won	выигрывать
 57	 to learn	 learnt	 learnt	учить
 58	 to live	 lived	 lived	жить
 59	 to continue	 continued	 continued	продолжать
@@ -49,43 +57,52 @@
 61	 to show	 showed	 shown	показывать
 62	 to allow	 allowed	 allowed	позволять, разрешать
 63	 to write	 wrote	 written	писать
+64	 to lose	 lost	 lost	терять, проигрывать
 65	 to offer	 offered	 offered	предлагать
+66	 to sit	 sat	 sat	сидеть
+67	 to prohibit	 prohibited	 prohibited	запрещать
 68	 to read	 read	 read	читать
 69	 to follow	 followed	 followed	следовать
+70	 to teach	 taught	 taught	преподавать
 71	 to pay	 paid	 paid	платить
-72	 to speak	 spoke	 spoken	говорить
 73	 to stop	 stopped	 stopped	прекращать
 74	 to watch	 watched	 watched	смотреть
 75	 to develop	 developed	 developed	развивать
+76	 to fall	 fell	 fallen	падать
 77	 to pass	 passed	 passed	проходить, проезжать
 78	 to produce	 produced	 produced	производить
-79	 to carry	 carried	 carried	нести
 80	 to support	 supported	 supported	поддерживать
+81	 to thank	 thanked	 thanked	благодарить
 82	 to provide	 provided	 provided	снабжать
 83	 to raise	 raised	 raised	поднимать
 84	 to add	 added	 added	добавлять
+85	 to agree	 agreed	 agreed	соглашаться
 86	 to understand	 understood	 understood	понимать
 87	 to receive	 received	 received	получать
 88	 to jump	 jumped	 jumped	прыгать
 89	 to choose	 chose	 chosen	выбирать
 90	 to hope	 hoped	 hoped	надеяться
-91	 to draw	 drew	 drawn	рисовать
 92	 to decide	 decided	 decided	решать
-93	 to break	 broke	 broken	ломать
 94	 to send	 sent	 sent	отправлять
 95	 to build	 built	 built	строить
 96	 to eat	 ate	 eaten	кушать
+97	 to hit	 hit	 hit	ударять
 98	 to die	 died	 died	умирать
+99	 to catch	 caught	 caught	ловить
+100	 to swim	 swam	 swum	плавать
 101	 to sell	 sold	 sold	продавать
 102	 to return	 returned	 returned	возвращаться
 103	 to kill	 killed	 killed	убивать
 104	 to explain	 explained	 explained	объяснять
 105	 to stay	 stayed	 stayed	оставаться
+106	 to cut	 cut	 cut	резать
 107	 to solve	 solved	 solved	решать проблему
 108	 to love	 loved	 loved	любить
 109	 to discuss	 discussed	 discussed	обсуждать
 110	 to achieve	 achieved	 achieved	достигать
+111	 to avoid	 avoided	 avoided	избегать
 112	 to prepare	 prepared	 prepared	готовить, подготавливать
+113	 to forget	 forgot	 forgotten	забывать
 114	 to suggest	 suggested	 suggested	предлагать, советовать
 115	 to depend	 depended	 depended	зависеть
 116	 to translate	 translated	 translated	переводить
@@ -102,16 +119,22 @@
 127	 to dance	 danced	 danced	танцевать
 128	 to start	 started	 started	начинать
 129	 to finish	 finished	 finished	заканчивать
+130	 to wear	 wore	 worn	носить
+131	 to ride	 rode	 ridden	ехать верхом
 132	 to cancel	 cancelled	 cancelled	отменять
+133	 to lie	 lay	 lain	лежать
 134	 to cry	 cried	 cried	плакать
 135	 to drink	 drank	 drunk	пить
 136	 to visit	 visited	 visited	навещать
+137	 to drive	 drove	 driven	водить
 138	 to wish	 wished	 wished	желать
-139	 to sing	 sang	 sung	петь
+141	 to fly	 flew	 flown	летать
 142	 to hold	 held	 held	держать
 143	 to talk	 talked	 talked	болтать
 144	 to fear	 feared	 feared	бояться
+145	 to shout	 shouted	 shouted	кричать
 146	 to turn	 turned	 turned	поворачивать
+147	 to search	 searched	 searched	искать
 148	 to listen	 listened	 listened	слушать
 149	 to connect	 connected	 connected	соединять
 150	 to travel	 travelled	 travelled	путешествовать
